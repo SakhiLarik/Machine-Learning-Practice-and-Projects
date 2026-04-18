@@ -1,0 +1,31 @@
+Company,Job,Degree,Salary_100K
+Google,programmer,bechelors,0
+Google,sales executive,masters,1
+Google,programmer,masters,1
+Google,sales executive,bechelors,0
+Google,business manager,masters,1
+Google,business manager,bechelors,0
+Microsoft,sales executive,bechelors,0
+Microsoft,programmer,bechelors,1
+Microsoft,business manager,masters,1
+Microsoft,business manager,bechelors,0
+Microsoft,programmer,masters,1
+Microsoft,sales executive,masters,1
+Facebook,business manager,bechelors,1
+Facebook,programmer,bechelors,1
+Facebook,sales executive,bechelors,1
+Facebook,business manager,masters,1
+Facebook,programmer,masters,1
+Facebook,sales executive,masters,1
+Twitter,business manager,bechelors,0
+Twitter,programmer,bechelors,0
+Twitter,business manager,masters,0
+Twitter,sales executive,bechelors,0
+Twitter,sales executive,masters,0
+Twitter,programmer,masters,0
+IBM,business manager,bechelors,1
+IBM,sales executive,bechelors,0
+IBM,programmer,bechelors,0
+IBM,business manager,masters,1
+IBM,sales executive,masters,1
+IBM,programmer,masters,1
